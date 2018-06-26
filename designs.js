@@ -68,7 +68,7 @@ $(function () {
     });
     
     //Animation
-    $('#pixelArtMaker').addClass('animated infinite shake');
+    $('#pixelArtMaker').addClass('animated shake');
     $('#pixelArtTop').addClass('animated bounceInDown');
     $('#pixelArtDown').addClass('animated bounceInUp')
     
